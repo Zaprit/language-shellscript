@@ -1,7 +1,7 @@
 {
-  "name": "language-shellscript",
+  "name": "language-vscript",
   "version": "0.28.2",
-  "description": "ShellScript language support in Atom",
+  "description": "VScript language support in Atom",
   "keywords": [
     "tree-sitter"
   ],
@@ -9,14 +9,14 @@
     "atom": "*",
     "node": "*"
   },
-  "homepage": "https://github.com/Zaprit/language-shellscript.git",
+  "homepage": "https://github.com/Zaprit/language-vscript",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Zaprit/language-shellscript.git"
+    "url": "https://github.com/Zaprit/language-vscript.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Zaprit/language-shellscript/issues"
+    "url": "https://github.com/Zaprit/language-vscript/issues"
   },
   "dependencies": {
     "tree-sitter-bash": "^0.16.1"
