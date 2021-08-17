@@ -24,6 +24,7 @@
   'cygport'
   'bats'
   'ebuild'
+  'vss'
 ]
 'firstLineMatch': '''(?x)
   # Hashbang
