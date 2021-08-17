@@ -9,14 +9,14 @@
     "atom": "*",
     "node": "*"
   },
-  "homepage": "http://atom.github.io/language-shellscript",
+  "homepage": "https://github.com/Zaprit/language-shellscript.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/language-shellscript.git"
+    "url": "https://github.com/Zaprit/language-shellscript.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atom/language-shellscript/issues"
+    "url": "https://github.com/Zaprit/language-shellscript/issues"
   },
   "dependencies": {
     "tree-sitter-bash": "^0.16.1"
